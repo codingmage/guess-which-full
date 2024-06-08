@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/users/8
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNTNTAtdGVzdCIsImlkIjo4LCJpYXQiOjE3MDMzNjc3NzMsImV4cCI6MTcwMzM3MTM3M30.XjTxaJsa8d729_Aicy1d7D--FThkD9El65hH-48yqkE
+
+{
+    "highScore": 1500
+}
